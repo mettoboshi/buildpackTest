@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "buildpack Test"
+exit 0
